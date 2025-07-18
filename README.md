@@ -6,7 +6,7 @@ I'm a Computer Engineering student at FIB UPC (Barcelona) passionate about build
 
 ### 🔭 Current Work
 
-- Developing the [MICA ECO app](https://app.mica.eco) - Water conservation platform
+- Developing the [MICA ECO app](https://app.mica.eco) - Water conservation platform. Here's the link to the repo: [Github Repository](https:github.com/micaeco/mica-app)
 - Building and maintaining the [MICA ECO landing page](https://mica.eco)
 
 ### 💻 Technical Skills
